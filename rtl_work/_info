@@ -10,7 +10,7 @@ z2
 cModel Technology
 Z0 dD:/MSEE/5361/Week3/Assignment1Verilog2bitComparator
 vAAC2M3P1_tb
-!s110 1668552833
+!s110 1668554458
 !i10b 1
 !s100 ]Q91H5:jX[GoRYIk6iPEH0
 Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
@@ -27,7 +27,7 @@ Z3 OV;L;2020.1;71
 r1
 !s85 0
 31
-!s108 1668552833.000000
+!s108 1668554458.000000
 !s107 D:/MSEE/5361/Week3/Assignment1Verilog2bitComparator/AAC2M3P1_tb.vp|
 !s90 -reportprogress|300|-work|work|D:/MSEE/5361/Week3/Assignment1Verilog2bitComparator/AAC2M3P1_tb.vp|
 !i113 1
@@ -35,23 +35,23 @@ o-work work
 Z4 tCvgOpt 0
 n@a@a@c2@m3@p1_tb
 vComparator2
-!s110 1668552821
+!s110 1668554420
 !i10b 1
-!s100 XLEJKCZZb[G^OiL5XBN4B0
+!s100 L=znUS6?HZi;:aL<I`>HK2
 R1
-IaWlPg4m?`4aeOkXTK<H@g2
+ISiMb8`kDZ4?H^cMFPgj]o1
 R2
 R0
-w1668552797
+w1668554400
 8D:/MSEE/5361/Week3/Assignment1Verilog2bitComparator/AAC2M3P1.v
 FD:/MSEE/5361/Week3/Assignment1Verilog2bitComparator/AAC2M3P1.v
 !i122 0
-L0 38 11
+L0 38 10
 R3
 r1
 !s85 0
 31
-!s108 1668552821.000000
+!s108 1668554420.000000
 !s107 D:/MSEE/5361/Week3/Assignment1Verilog2bitComparator/AAC2M3P1.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/MSEE/5361/Week3/Assignment1Verilog2bitComparator|D:/MSEE/5361/Week3/Assignment1Verilog2bitComparator/AAC2M3P1.v|
 !i113 1

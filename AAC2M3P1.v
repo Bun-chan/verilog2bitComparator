@@ -43,7 +43,6 @@ module Comparator2(
 	
 	always @(A, B)
 	Equals = (A == B) ? 1 : 0;
-	
 
 endmodule // Comparator2 
 
